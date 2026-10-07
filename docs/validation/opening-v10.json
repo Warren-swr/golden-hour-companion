@@ -1,0 +1,19 @@
+{
+  "embedded_playback_start_seconds": 3.0,
+  "interface_hold_seconds": 3.0,
+  "interface_fully_visible_during_hold": true,
+  "embedded_consecutive_source_frames": 60,
+  "full_frame_handoff_seconds": 5.5,
+  "peak_expansion_speed_time": 3.7291666666666665,
+  "peak_expansion_speed_logical_pixels_per_second": 503.59780684017096,
+  "final_expansion_speed_logical_pixels_per_second": 2.0197330741211772e-07,
+  "scale_curve": "logarithmic scale with asymmetric C2 easing; faster acceleration and gradual settling",
+  "position_curve": "independent slightly leading asymmetric C2 easing",
+  "expected_static_interface_duplicate_frames": [
+    3,
+    20,
+    44,
+    68,
+    71
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "render": {
+    "blender": "4.5.12 LTS",
+    "scene": "v7",
+    "frame": 1,
+    "resolution": [
+      128,
+      128
+    ],
+    "samples": 1,
+    "device": "CPU",
+    "output_format": "RGB16 PNG",
+    "bytes": 80452,
+    "portable_render_entry_passed": true
+  },
+  "encode": {
+    "mp4_export": true,
+    "preview_export": true,
+    "frames_per_output": 4,
+    "no_prores_output": true,
+    "overwrite_guard": true,
+    "missing_frame_guard": true
+  },
+  "scope": "CPU single-frame render and four-frame synthetic MP4 export. This is an entry-point smoke check, not a full production rerender."
+}

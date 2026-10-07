@@ -1,0 +1,32 @@
+# Private local production history and machine configuration
+/.codex/
+/.claude/
+/output/
+/work/
+/README.local.md
+/instruction.md
+/golden-hour-companion.jpg
+.env
+.env.*
+*_credentials*
+*_token*
+__pycache__/
+*.py[cod]
+.venv/
+
+# Large media live in Releases, fonts stay in the user's installation
+*.blend
+*.blend1
+*.mdd
+*.mov
+*.mp4
+*.zip
+*.dmg
+*.otf
+*.ttf
+*.woff*
+
+# Editor and OS state
+.DS_Store
+.idea/
+.vscode/

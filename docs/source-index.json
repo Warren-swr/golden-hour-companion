@@ -1,0 +1,1430 @@
+[
+  {
+    "file": "recipes/base/scripts/architecture.py",
+    "origin": "output/scripts/architecture.py",
+    "source_sha256": "96da5101248b478631678104cc64244e7c2e6a5b3c2cb0c2c6e24a42c5b2dbe7",
+    "published_sha256": "96da5101248b478631678104cc64244e7c2e6a5b3c2cb0c2c6e24a42c5b2dbe7",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/assemble.py",
+    "origin": "output/scripts/assemble.py",
+    "source_sha256": "7a05287994f39aee723b2896a1f1c975ceb35b40ade6140c1dd17639cd2943c8",
+    "published_sha256": "7a05287994f39aee723b2896a1f1c975ceb35b40ade6140c1dd17639cd2943c8",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/build_scene.py",
+    "origin": "output/scripts/build_scene.py",
+    "source_sha256": "7e52caced3b04a882eff6aa0fc8299817f1740d7cc6f442334628b9cef91f050",
+    "published_sha256": "7e52caced3b04a882eff6aa0fc8299817f1740d7cc6f442334628b9cef91f050",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/cameras.py",
+    "origin": "output/scripts/cameras.py",
+    "source_sha256": "d4027c2c3937b7fdaa826897539eca443fa51cc9cbb5ffa87b4d76fae90fa612",
+    "published_sha256": "d4027c2c3937b7fdaa826897539eca443fa51cc9cbb5ffa87b4d76fae90fa612",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/common.py",
+    "origin": "output/scripts/common.py",
+    "source_sha256": "505f5d33a5299017c1be1c59a9a496a8a87fd377301af2aaed557f5c99d24a5e",
+    "published_sha256": "505f5d33a5299017c1be1c59a9a496a8a87fd377301af2aaed557f5c99d24a5e",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/final_manifest.py",
+    "origin": "output/scripts/final_manifest.py",
+    "source_sha256": "37814038eae902e9d7b33b646609a63bc3ab53545a7db3c34d9ac38e59cdc638",
+    "published_sha256": "37814038eae902e9d7b33b646609a63bc3ab53545a7db3c34d9ac38e59cdc638",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/finalize_scene.py",
+    "origin": "output/scripts/finalize_scene.py",
+    "source_sha256": "d73744abf29bdd5785f258da4c9ed46251273cf04217a950ae6b1c05498c265e",
+    "published_sha256": "d73744abf29bdd5785f258da4c9ed46251273cf04217a950ae6b1c05498c265e",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/forest.py",
+    "origin": "output/scripts/forest.py",
+    "source_sha256": "f4c0a52639cffea040061ad526d570b9483a8dd920f068e96883ba9b792d68a5",
+    "published_sha256": "f4c0a52639cffea040061ad526d570b9483a8dd920f068e96883ba9b792d68a5",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/furniture.py",
+    "origin": "output/scripts/furniture.py",
+    "source_sha256": "b8b164dda184086f6b3b00cf1b2e0e6c41327a4640bfb091005b587eb2f8c288",
+    "published_sha256": "b8b164dda184086f6b3b00cf1b2e0e6c41327a4640bfb091005b587eb2f8c288",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/garden.py",
+    "origin": "output/scripts/garden.py",
+    "source_sha256": "5bbb0d8a40c5d6b17737c1d880ba15c24f8730f215032b95ef21da11d8a20cdd",
+    "published_sha256": "5bbb0d8a40c5d6b17737c1d880ba15c24f8730f215032b95ef21da11d8a20cdd",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/hero.py",
+    "origin": "output/scripts/hero.py",
+    "source_sha256": "2875ffe9e2e97f57a31526789f52fd10890f7536e50f710475f59339df7b62ff",
+    "published_sha256": "2875ffe9e2e97f57a31526789f52fd10890f7536e50f710475f59339df7b62ff",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/materials.py",
+    "origin": "output/scripts/materials.py",
+    "source_sha256": "89336198ea273ca89def68914954555abec4632d9aac211fddef9bb105b8fdaa",
+    "published_sha256": "89336198ea273ca89def68914954555abec4632d9aac211fddef9bb105b8fdaa",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/probe_light.py",
+    "origin": "output/scripts/probe_light.py",
+    "source_sha256": "e9bb2215b0dcb63b05607992de8dc2270c329efd2c43d109426cdcc83b735351",
+    "published_sha256": "e9bb2215b0dcb63b05607992de8dc2270c329efd2c43d109426cdcc83b735351",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/probe_sun_access.py",
+    "origin": "output/scripts/probe_sun_access.py",
+    "source_sha256": "88b287477809f9f35f9a8e9165ebb26e7c49b9e472bceaefa676ccaa64d20c31",
+    "published_sha256": "88b287477809f9f35f9a8e9165ebb26e7c49b9e472bceaefa676ccaa64d20c31",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/render_batch.py",
+    "origin": "output/scripts/render_batch.py",
+    "source_sha256": "213fa5dc138bafbd10966856edfcdf7dba49600b45654ee1fecfaf251eac5cf2",
+    "published_sha256": "213fa5dc138bafbd10966856edfcdf7dba49600b45654ee1fecfaf251eac5cf2",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/render_full_delivery.py",
+    "origin": "output/scripts/render_full_delivery.py",
+    "source_sha256": "d90cd6cc2d1f9507378cc914a207183851e09fabe39f58d7e9454f07c09a626c",
+    "published_sha256": "d90cd6cc2d1f9507378cc914a207183851e09fabe39f58d7e9454f07c09a626c",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/render_previews.py",
+    "origin": "output/scripts/render_previews.py",
+    "source_sha256": "6957d3e9848b899157b56fd95cf445caa1a37e735a9e67b0448035b048ac288a",
+    "published_sha256": "6957d3e9848b899157b56fd95cf445caa1a37e735a9e67b0448035b048ac288a",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/render_progress.py",
+    "origin": "output/scripts/render_progress.py",
+    "source_sha256": "97bfe7d5ce91729892af8b373104eafe78b22debb5a9ec56bf04364394d05c0f",
+    "published_sha256": "97bfe7d5ce91729892af8b373104eafe78b22debb5a9ec56bf04364394d05c0f",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/render_scene.py",
+    "origin": "output/scripts/render_scene.py",
+    "source_sha256": "91c4e641c5133193e137feaff9dab2aae9184ad60a67761b8a5a216af2818e03",
+    "published_sha256": "91c4e641c5133193e137feaff9dab2aae9184ad60a67761b8a5a216af2818e03",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/render_stills.py",
+    "origin": "output/scripts/render_stills.py",
+    "source_sha256": "674a7e90f9a807821591d5ac1699452f1965e816036516627063ef333953a17c",
+    "published_sha256": "674a7e90f9a807821591d5ac1699452f1965e816036516627063ef333953a17c",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/review_images.py",
+    "origin": "output/scripts/review_images.py",
+    "source_sha256": "1cfe340106d9c342545e300d79f1b54ecad61572b1c1cb44e20c48306e50bc07",
+    "published_sha256": "1cfe340106d9c342545e300d79f1b54ecad61572b1c1cb44e20c48306e50bc07",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/verify_project.py",
+    "origin": "output/scripts/verify_project.py",
+    "source_sha256": "98c586d32220f6663dc043c5011b25e459a77fa16e17196a46bbfe3e6bd544ff",
+    "published_sha256": "98c586d32220f6663dc043c5011b25e459a77fa16e17196a46bbfe3e6bd544ff",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/base/scripts/verify_video.py",
+    "origin": "output/scripts/verify_video.py",
+    "source_sha256": "3bc61f86acf22835a8d99199208b40fadd3b1c00b7b1847a63e013d8c994b6ca",
+    "published_sha256": "3bc61f86acf22835a8d99199208b40fadd3b1c00b7b1847a63e013d8c994b6ca",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v10/scripts/edit.py",
+    "origin": "output/forest_retreat_v10/scripts/edit.py",
+    "source_sha256": "c0899aa283e4536388c5f12afa4c8bf994629f0e4a94ff9625533e71e5285a79",
+    "published_sha256": "c0899aa283e4536388c5f12afa4c8bf994629f0e4a94ff9625533e71e5285a79",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v10/scripts/encode_final.py",
+    "origin": "output/forest_retreat_v10/scripts/encode_final.py",
+    "source_sha256": "cce6a08dc4d2a1b385e28dd4ec9eff23c87fd7ce09f1a742ed1a41ac99ef02ba",
+    "published_sha256": "cce6a08dc4d2a1b385e28dd4ec9eff23c87fd7ce09f1a742ed1a41ac99ef02ba",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v10/scripts/produce.py",
+    "origin": "output/forest_retreat_v10/scripts/produce.py",
+    "source_sha256": "9a0f69144a271ca4c5fb6a856f0b9ce5273c9fea7dd8603302ad678ae4743893",
+    "published_sha256": "9a0f69144a271ca4c5fb6a856f0b9ce5273c9fea7dd8603302ad678ae4743893",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v10/scripts/render_intro.py",
+    "origin": "output/forest_retreat_v10/scripts/render_intro.py",
+    "source_sha256": "6e0a6f37e46f381d8eefcacc747c8e81ed605df810323d1fd92dd8570ee4e4fc",
+    "published_sha256": "6e0a6f37e46f381d8eefcacc747c8e81ed605df810323d1fd92dd8570ee4e4fc",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v10/scripts/validate_v10.py",
+    "origin": "output/forest_retreat_v10/scripts/validate_v10.py",
+    "source_sha256": "f5106bb27e10ab08498720a544c6989ded8fd53f9262bfb56f1e2c0e06e06e35",
+    "published_sha256": "f5106bb27e10ab08498720a544c6989ded8fd53f9262bfb56f1e2c0e06e06e35",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/assemble_retreat.py",
+    "origin": "output/forest_retreat_v2/scripts/assemble_retreat.py",
+    "source_sha256": "9833837983cad1bf7e2e73415e6a1bd3b92437c5e68521322726bfb63cefd137",
+    "published_sha256": "c72e8d8a6b4337d87ac6f27ceb67c4d3e3b13397a079dcd838f92edc4b1d7721",
+    "adaptation": "Replace machine-specific FFmpeg fallback with PATH command."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/build_retreat.py",
+    "origin": "output/forest_retreat_v2/scripts/build_retreat.py",
+    "source_sha256": "fd96db222a698339c1aebc7eae9a31a8e66606027db73d2d785f9c92e6ec7231",
+    "published_sha256": "fd96db222a698339c1aebc7eae9a31a8e66606027db73d2d785f9c92e6ec7231",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/chapter_review.py",
+    "origin": "output/forest_retreat_v2/scripts/chapter_review.py",
+    "source_sha256": "1d6a66b910967ce5ce37748229e7c573bfbf4f5769179f6467943276a995fe10",
+    "published_sha256": "4d52248d742ec5026a14037274892917be599fb361a915c110196074fb8c2a39",
+    "adaptation": "Replace machine-specific FFmpeg fallback with PATH command."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/common.py",
+    "origin": "output/forest_retreat_v2/scripts/common.py",
+    "source_sha256": "505f5d33a5299017c1be1c59a9a496a8a87fd377301af2aaed557f5c99d24a5e",
+    "published_sha256": "505f5d33a5299017c1be1c59a9a496a8a87fd377301af2aaed557f5c99d24a5e",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/contact_sheet.py",
+    "origin": "output/forest_retreat_v2/scripts/contact_sheet.py",
+    "source_sha256": "f145b67ac811fda4dafb09437e7794dc22f51b52991a8338978f6b5b524b6e09",
+    "published_sha256": "f145b67ac811fda4dafb09437e7794dc22f51b52991a8338978f6b5b524b6e09",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/fetch_textures.py",
+    "origin": "output/forest_retreat_v2/scripts/fetch_textures.py",
+    "source_sha256": "f485d159a3ca4a52a52fc8152cd7655ea8852f1522297df17be325ecd332bfcd",
+    "published_sha256": "f485d159a3ca4a52a52fc8152cd7655ea8852f1522297df17be325ecd332bfcd",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/finalize_retreat.py",
+    "origin": "output/forest_retreat_v2/scripts/finalize_retreat.py",
+    "source_sha256": "10f0f6abfd2c2c6d2a346a35e044d6a7104a274221ff3c7d8cde5d96f7f631e2",
+    "published_sha256": "10f0f6abfd2c2c6d2a346a35e044d6a7104a274221ff3c7d8cde5d96f7f631e2",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/forest.py",
+    "origin": "output/forest_retreat_v2/scripts/forest.py",
+    "source_sha256": "f4c0a52639cffea040061ad526d570b9483a8dd920f068e96883ba9b792d68a5",
+    "published_sha256": "f4c0a52639cffea040061ad526d570b9483a8dd920f068e96883ba9b792d68a5",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/furniture.py",
+    "origin": "output/forest_retreat_v2/scripts/furniture.py",
+    "source_sha256": "b8b164dda184086f6b3b00cf1b2e0e6c41327a4640bfb091005b587eb2f8c288",
+    "published_sha256": "b8b164dda184086f6b3b00cf1b2e0e6c41327a4640bfb091005b587eb2f8c288",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/garden.py",
+    "origin": "output/forest_retreat_v2/scripts/garden.py",
+    "source_sha256": "5bbb0d8a40c5d6b17737c1d880ba15c24f8730f215032b95ef21da11d8a20cdd",
+    "published_sha256": "5bbb0d8a40c5d6b17737c1d880ba15c24f8730f215032b95ef21da11d8a20cdd",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/gui_check.py",
+    "origin": "output/forest_retreat_v2/scripts/gui_check.py",
+    "source_sha256": "8579589aaceacefd00c25d64e5e0561d7f6160a02413bd1d41ed0f8036b7f7f2",
+    "published_sha256": "67df8c3afcd2ece30e43510fcf392b805663a5986e5c2b412a58e171a455c94e",
+    "adaptation": "Replace machine-specific FFmpeg fallback with PATH command."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/inspect_retreat.py",
+    "origin": "output/forest_retreat_v2/scripts/inspect_retreat.py",
+    "source_sha256": "4307e9908ba788291d3f208667f782882fda7cd4a7f5b7e5bcf31f9e6b5d75ba",
+    "published_sha256": "4307e9908ba788291d3f208667f782882fda7cd4a7f5b7e5bcf31f9e6b5d75ba",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/materials.py",
+    "origin": "output/forest_retreat_v2/scripts/materials.py",
+    "source_sha256": "89336198ea273ca89def68914954555abec4632d9aac211fddef9bb105b8fdaa",
+    "published_sha256": "89336198ea273ca89def68914954555abec4632d9aac211fddef9bb105b8fdaa",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/package_delivery.py",
+    "origin": "output/forest_retreat_v2/scripts/package_delivery.py",
+    "source_sha256": "3575911263a504ad77ec415463587a0831a7f52376fe71d079158c1aadd72977",
+    "published_sha256": "3575911263a504ad77ec415463587a0831a7f52376fe71d079158c1aadd72977",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/portable_check.py",
+    "origin": "output/forest_retreat_v2/scripts/portable_check.py",
+    "source_sha256": "2a995bd3576cf1e9a2ee31b54dcbf22d2a1796b76fec6e391bce7ab8de2b7c00",
+    "published_sha256": "2a995bd3576cf1e9a2ee31b54dcbf22d2a1796b76fec6e391bce7ab8de2b7c00",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/prepare_delivery_jobs.py",
+    "origin": "output/forest_retreat_v2/scripts/prepare_delivery_jobs.py",
+    "source_sha256": "a74046742a985992128cddc6ad4ee11f770d8f383b0b3cd096e042afa9271390",
+    "published_sha256": "a74046742a985992128cddc6ad4ee11f770d8f383b0b3cd096e042afa9271390",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/production.py",
+    "origin": "output/forest_retreat_v2/scripts/production.py",
+    "source_sha256": "7405fcf1033eb398103828b8e9422cf979f6044818703273380d19f2ce0786a9",
+    "published_sha256": "7405fcf1033eb398103828b8e9422cf979f6044818703273380d19f2ce0786a9",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/render_jobs.py",
+    "origin": "output/forest_retreat_v2/scripts/render_jobs.py",
+    "source_sha256": "729e70a3bf776794935f4f536f3a9252cbca11a0aad4a9b3ceff545f63796ed6",
+    "published_sha256": "729e70a3bf776794935f4f536f3a9252cbca11a0aad4a9b3ceff545f63796ed6",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/render_progress.py",
+    "origin": "output/forest_retreat_v2/scripts/render_progress.py",
+    "source_sha256": "c0963b52c81a1f9847a6d00bca1afeaf0eeb52ff8886a01b589fe8eb6b403a27",
+    "published_sha256": "c0963b52c81a1f9847a6d00bca1afeaf0eeb52ff8886a01b589fe8eb6b403a27",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/render_retreat.py",
+    "origin": "output/forest_retreat_v2/scripts/render_retreat.py",
+    "source_sha256": "2e27407cd3477718aa5682dc3a53e2e207482b7f7955af3158ef5f1fb58d5c7b",
+    "published_sha256": "2e27407cd3477718aa5682dc3a53e2e207482b7f7955af3158ef5f1fb58d5c7b",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/retreat_architecture.py",
+    "origin": "output/forest_retreat_v2/scripts/retreat_architecture.py",
+    "source_sha256": "cc070ace75e102c1b6518a363fd10ab8ee3c8531ce7adde69d38ddc5e7fa991a",
+    "published_sha256": "cc070ace75e102c1b6518a363fd10ab8ee3c8531ce7adde69d38ddc5e7fa991a",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/retreat_cameras.py",
+    "origin": "output/forest_retreat_v2/scripts/retreat_cameras.py",
+    "source_sha256": "f915e4873a4b5cf3681264858630a31252c6154630e1460d8e43fd2739ef8b57",
+    "published_sha256": "f915e4873a4b5cf3681264858630a31252c6154630e1460d8e43fd2739ef8b57",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/retreat_helpers.py",
+    "origin": "output/forest_retreat_v2/scripts/retreat_helpers.py",
+    "source_sha256": "fb2aad43fdf9eaf5e26655642ff0dddfeb2838f502ab6fd9a80375d97fc79363",
+    "published_sha256": "fb2aad43fdf9eaf5e26655642ff0dddfeb2838f502ab6fd9a80375d97fc79363",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/retreat_interior.py",
+    "origin": "output/forest_retreat_v2/scripts/retreat_interior.py",
+    "source_sha256": "f84a84fb046996c776d5b1d5bb3041da8a4483d4cf1a1489f877cca8b7ce35de",
+    "published_sha256": "f84a84fb046996c776d5b1d5bb3041da8a4483d4cf1a1489f877cca8b7ce35de",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/retreat_landscape.py",
+    "origin": "output/forest_retreat_v2/scripts/retreat_landscape.py",
+    "source_sha256": "bd45ea9a91ee8e24b9c83d4cc988e0b09cdf90f5f822cd173391447ef5eda720",
+    "published_sha256": "bd45ea9a91ee8e24b9c83d4cc988e0b09cdf90f5f822cd173391447ef5eda720",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/retreat_materials.py",
+    "origin": "output/forest_retreat_v2/scripts/retreat_materials.py",
+    "source_sha256": "b06c155147df6150c04eb8a60a37545e393e06948868977fc3fade2d4872b601",
+    "published_sha256": "b06c155147df6150c04eb8a60a37545e393e06948868977fc3fade2d4872b601",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/retreat_pool.py",
+    "origin": "output/forest_retreat_v2/scripts/retreat_pool.py",
+    "source_sha256": "6b71df2f191a2b8593e7377c1273c4c53c605681dc5fc4514bc39dc082b25400",
+    "published_sha256": "6b71df2f191a2b8593e7377c1273c4c53c605681dc5fc4514bc39dc082b25400",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/verify_delivery.py",
+    "origin": "output/forest_retreat_v2/scripts/verify_delivery.py",
+    "source_sha256": "b414c5197537daec4f2677e085a958322959e1b416c044489cd19b7a0f9137a0",
+    "published_sha256": "aa6f16800f197b5e71202b6884cb267824d96e6f77867af125a0bfc2780dc025",
+    "adaptation": "Replace machine-specific FFmpeg fallback with PATH command."
+  },
+  {
+    "file": "recipes/forest_retreat_v2/scripts/water_simulation.py",
+    "origin": "output/forest_retreat_v2/scripts/water_simulation.py",
+    "source_sha256": "e8b4cda02bab2d0cdafdc5380db0a53adb11cb161d1f9ec0351db8297a1a839b",
+    "published_sha256": "e8b4cda02bab2d0cdafdc5380db0a53adb11cb161d1f9ec0351db8297a1a839b",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/assemble_retreat.py",
+    "origin": "output/forest_retreat_v3/scripts/assemble_retreat.py",
+    "source_sha256": "9833837983cad1bf7e2e73415e6a1bd3b92437c5e68521322726bfb63cefd137",
+    "published_sha256": "c72e8d8a6b4337d87ac6f27ceb67c4d3e3b13397a079dcd838f92edc4b1d7721",
+    "adaptation": "Replace machine-specific FFmpeg fallback with PATH command."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/assemble_v3.py",
+    "origin": "output/forest_retreat_v3/scripts/assemble_v3.py",
+    "source_sha256": "f953c636541a5cc0ca9a63dc31f720326fdf3ad32eaf8c6e13e6630863074f53",
+    "published_sha256": "1d4e3a9b18c867a7ee5b9ea87462428ed20dc6de9892209f6094b475a47d9285",
+    "adaptation": "Replace machine-specific FFmpeg fallback with PATH command."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/build_retreat.py",
+    "origin": "output/forest_retreat_v3/scripts/build_retreat.py",
+    "source_sha256": "fd96db222a698339c1aebc7eae9a31a8e66606027db73d2d785f9c92e6ec7231",
+    "published_sha256": "fd96db222a698339c1aebc7eae9a31a8e66606027db73d2d785f9c92e6ec7231",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/build_v3.py",
+    "origin": "output/forest_retreat_v3/scripts/build_v3.py",
+    "source_sha256": "5b9113ce14e753e633c64b9f7a8d359910902f77333cd094db76205cce5d5702",
+    "published_sha256": "5b9113ce14e753e633c64b9f7a8d359910902f77333cd094db76205cce5d5702",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/chapter_review.py",
+    "origin": "output/forest_retreat_v3/scripts/chapter_review.py",
+    "source_sha256": "1d6a66b910967ce5ce37748229e7c573bfbf4f5769179f6467943276a995fe10",
+    "published_sha256": "4d52248d742ec5026a14037274892917be599fb361a915c110196074fb8c2a39",
+    "adaptation": "Replace machine-specific FFmpeg fallback with PATH command."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/check_cameras.py",
+    "origin": "output/forest_retreat_v3/scripts/check_cameras.py",
+    "source_sha256": "eab083d7a56bccd3e4954a08efd0252551185d4e4df6e9e37ca0794768d4b2de",
+    "published_sha256": "eab083d7a56bccd3e4954a08efd0252551185d4e4df6e9e37ca0794768d4b2de",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/cinematography.py",
+    "origin": "output/forest_retreat_v3/scripts/cinematography.py",
+    "source_sha256": "60612fc405055dc4c16cdc43daef78e2056e0ece2d78506b83a393ee4c8bcc10",
+    "published_sha256": "60612fc405055dc4c16cdc43daef78e2056e0ece2d78506b83a393ee4c8bcc10",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/common.py",
+    "origin": "output/forest_retreat_v3/scripts/common.py",
+    "source_sha256": "505f5d33a5299017c1be1c59a9a496a8a87fd377301af2aaed557f5c99d24a5e",
+    "published_sha256": "505f5d33a5299017c1be1c59a9a496a8a87fd377301af2aaed557f5c99d24a5e",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/compare_camera_scenes.py",
+    "origin": "output/forest_retreat_v3/scripts/compare_camera_scenes.py",
+    "source_sha256": "5081422e1b0bbf59dff1eb919fc04c50b965a8effcaf4d1fdc0dee1df5a66d0d",
+    "published_sha256": "5081422e1b0bbf59dff1eb919fc04c50b965a8effcaf4d1fdc0dee1df5a66d0d",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/contact_sheet.py",
+    "origin": "output/forest_retreat_v3/scripts/contact_sheet.py",
+    "source_sha256": "f145b67ac811fda4dafb09437e7794dc22f51b52991a8338978f6b5b524b6e09",
+    "published_sha256": "f145b67ac811fda4dafb09437e7794dc22f51b52991a8338978f6b5b524b6e09",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/fetch_textures.py",
+    "origin": "output/forest_retreat_v3/scripts/fetch_textures.py",
+    "source_sha256": "f485d159a3ca4a52a52fc8152cd7655ea8852f1522297df17be325ecd332bfcd",
+    "published_sha256": "f485d159a3ca4a52a52fc8152cd7655ea8852f1522297df17be325ecd332bfcd",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/film_strip.py",
+    "origin": "output/forest_retreat_v3/scripts/film_strip.py",
+    "source_sha256": "ab802a5a075dd5eb3f1015e195601d045dbd0d0e8ea275f440fb95d54f0fb508",
+    "published_sha256": "ab802a5a075dd5eb3f1015e195601d045dbd0d0e8ea275f440fb95d54f0fb508",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/finalize_retreat.py",
+    "origin": "output/forest_retreat_v3/scripts/finalize_retreat.py",
+    "source_sha256": "10f0f6abfd2c2c6d2a346a35e044d6a7104a274221ff3c7d8cde5d96f7f631e2",
+    "published_sha256": "10f0f6abfd2c2c6d2a346a35e044d6a7104a274221ff3c7d8cde5d96f7f631e2",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/forest.py",
+    "origin": "output/forest_retreat_v3/scripts/forest.py",
+    "source_sha256": "f4c0a52639cffea040061ad526d570b9483a8dd920f068e96883ba9b792d68a5",
+    "published_sha256": "f4c0a52639cffea040061ad526d570b9483a8dd920f068e96883ba9b792d68a5",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/furniture.py",
+    "origin": "output/forest_retreat_v3/scripts/furniture.py",
+    "source_sha256": "b8b164dda184086f6b3b00cf1b2e0e6c41327a4640bfb091005b587eb2f8c288",
+    "published_sha256": "b8b164dda184086f6b3b00cf1b2e0e6c41327a4640bfb091005b587eb2f8c288",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/garden.py",
+    "origin": "output/forest_retreat_v3/scripts/garden.py",
+    "source_sha256": "5bbb0d8a40c5d6b17737c1d880ba15c24f8730f215032b95ef21da11d8a20cdd",
+    "published_sha256": "5bbb0d8a40c5d6b17737c1d880ba15c24f8730f215032b95ef21da11d8a20cdd",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/gui_check.py",
+    "origin": "output/forest_retreat_v3/scripts/gui_check.py",
+    "source_sha256": "8579589aaceacefd00c25d64e5e0561d7f6160a02413bd1d41ed0f8036b7f7f2",
+    "published_sha256": "67df8c3afcd2ece30e43510fcf392b805663a5986e5c2b412a58e171a455c94e",
+    "adaptation": "Replace machine-specific FFmpeg fallback with PATH command."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/inspect_retreat.py",
+    "origin": "output/forest_retreat_v3/scripts/inspect_retreat.py",
+    "source_sha256": "4307e9908ba788291d3f208667f782882fda7cd4a7f5b7e5bcf31f9e6b5d75ba",
+    "published_sha256": "4307e9908ba788291d3f208667f782882fda7cd4a7f5b7e5bcf31f9e6b5d75ba",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/make_frame_jobs.py",
+    "origin": "output/forest_retreat_v3/scripts/make_frame_jobs.py",
+    "source_sha256": "015ea70958b659995b2a75aa4717cba1a14843a459f7b56b04f4ad25c6711bc1",
+    "published_sha256": "015ea70958b659995b2a75aa4717cba1a14843a459f7b56b04f4ad25c6711bc1",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/materials.py",
+    "origin": "output/forest_retreat_v3/scripts/materials.py",
+    "source_sha256": "89336198ea273ca89def68914954555abec4632d9aac211fddef9bb105b8fdaa",
+    "published_sha256": "89336198ea273ca89def68914954555abec4632d9aac211fddef9bb105b8fdaa",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/package_delivery.py",
+    "origin": "output/forest_retreat_v3/scripts/package_delivery.py",
+    "source_sha256": "3575911263a504ad77ec415463587a0831a7f52376fe71d079158c1aadd72977",
+    "published_sha256": "3575911263a504ad77ec415463587a0831a7f52376fe71d079158c1aadd72977",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/polish_models.py",
+    "origin": "output/forest_retreat_v3/scripts/polish_models.py",
+    "source_sha256": "bc010864bff35cad6bb0b13cc797c7fb7407da5ba9eec0b841bf5d7ea0bfb719",
+    "published_sha256": "bc010864bff35cad6bb0b13cc797c7fb7407da5ba9eec0b841bf5d7ea0bfb719",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/portable_check.py",
+    "origin": "output/forest_retreat_v3/scripts/portable_check.py",
+    "source_sha256": "2a995bd3576cf1e9a2ee31b54dcbf22d2a1796b76fec6e391bce7ab8de2b7c00",
+    "published_sha256": "2a995bd3576cf1e9a2ee31b54dcbf22d2a1796b76fec6e391bce7ab8de2b7c00",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/prepare_delivery_jobs.py",
+    "origin": "output/forest_retreat_v3/scripts/prepare_delivery_jobs.py",
+    "source_sha256": "a74046742a985992128cddc6ad4ee11f770d8f383b0b3cd096e042afa9271390",
+    "published_sha256": "a74046742a985992128cddc6ad4ee11f770d8f383b0b3cd096e042afa9271390",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/prepare_v3_jobs.py",
+    "origin": "output/forest_retreat_v3/scripts/prepare_v3_jobs.py",
+    "source_sha256": "c05e42d982912db9aecec9ce19af4615f13682e61f24e02adb14340c09e9fa6c",
+    "published_sha256": "c05e42d982912db9aecec9ce19af4615f13682e61f24e02adb14340c09e9fa6c",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/production.py",
+    "origin": "output/forest_retreat_v3/scripts/production.py",
+    "source_sha256": "7405fcf1033eb398103828b8e9422cf979f6044818703273380d19f2ce0786a9",
+    "published_sha256": "7405fcf1033eb398103828b8e9422cf979f6044818703273380d19f2ce0786a9",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/render_jobs.py",
+    "origin": "output/forest_retreat_v3/scripts/render_jobs.py",
+    "source_sha256": "729e70a3bf776794935f4f536f3a9252cbca11a0aad4a9b3ceff545f63796ed6",
+    "published_sha256": "729e70a3bf776794935f4f536f3a9252cbca11a0aad4a9b3ceff545f63796ed6",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/render_progress.py",
+    "origin": "output/forest_retreat_v3/scripts/render_progress.py",
+    "source_sha256": "c0963b52c81a1f9847a6d00bca1afeaf0eeb52ff8886a01b589fe8eb6b403a27",
+    "published_sha256": "c0963b52c81a1f9847a6d00bca1afeaf0eeb52ff8886a01b589fe8eb6b403a27",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/render_retreat.py",
+    "origin": "output/forest_retreat_v3/scripts/render_retreat.py",
+    "source_sha256": "2e27407cd3477718aa5682dc3a53e2e207482b7f7955af3158ef5f1fb58d5c7b",
+    "published_sha256": "2e27407cd3477718aa5682dc3a53e2e207482b7f7955af3158ef5f1fb58d5c7b",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/retreat_architecture.py",
+    "origin": "output/forest_retreat_v3/scripts/retreat_architecture.py",
+    "source_sha256": "cc070ace75e102c1b6518a363fd10ab8ee3c8531ce7adde69d38ddc5e7fa991a",
+    "published_sha256": "cc070ace75e102c1b6518a363fd10ab8ee3c8531ce7adde69d38ddc5e7fa991a",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/retreat_cameras.py",
+    "origin": "output/forest_retreat_v3/scripts/retreat_cameras.py",
+    "source_sha256": "f915e4873a4b5cf3681264858630a31252c6154630e1460d8e43fd2739ef8b57",
+    "published_sha256": "f915e4873a4b5cf3681264858630a31252c6154630e1460d8e43fd2739ef8b57",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/retreat_helpers.py",
+    "origin": "output/forest_retreat_v3/scripts/retreat_helpers.py",
+    "source_sha256": "fb2aad43fdf9eaf5e26655642ff0dddfeb2838f502ab6fd9a80375d97fc79363",
+    "published_sha256": "fb2aad43fdf9eaf5e26655642ff0dddfeb2838f502ab6fd9a80375d97fc79363",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/retreat_interior.py",
+    "origin": "output/forest_retreat_v3/scripts/retreat_interior.py",
+    "source_sha256": "f84a84fb046996c776d5b1d5bb3041da8a4483d4cf1a1489f877cca8b7ce35de",
+    "published_sha256": "f84a84fb046996c776d5b1d5bb3041da8a4483d4cf1a1489f877cca8b7ce35de",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/retreat_landscape.py",
+    "origin": "output/forest_retreat_v3/scripts/retreat_landscape.py",
+    "source_sha256": "bd45ea9a91ee8e24b9c83d4cc988e0b09cdf90f5f822cd173391447ef5eda720",
+    "published_sha256": "bd45ea9a91ee8e24b9c83d4cc988e0b09cdf90f5f822cd173391447ef5eda720",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/retreat_materials.py",
+    "origin": "output/forest_retreat_v3/scripts/retreat_materials.py",
+    "source_sha256": "b06c155147df6150c04eb8a60a37545e393e06948868977fc3fade2d4872b601",
+    "published_sha256": "b06c155147df6150c04eb8a60a37545e393e06948868977fc3fade2d4872b601",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/retreat_pool.py",
+    "origin": "output/forest_retreat_v3/scripts/retreat_pool.py",
+    "source_sha256": "6b71df2f191a2b8593e7377c1273c4c53c605681dc5fc4514bc39dc082b25400",
+    "published_sha256": "6b71df2f191a2b8593e7377c1273c4c53c605681dc5fc4514bc39dc082b25400",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/validate_project_v3.py",
+    "origin": "output/forest_retreat_v3/scripts/validate_project_v3.py",
+    "source_sha256": "12e402d465e3ba30acd1039ad2b5fb3507f57154c7c799aca53d271fdf915cd1",
+    "published_sha256": "12e402d465e3ba30acd1039ad2b5fb3507f57154c7c799aca53d271fdf915cd1",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/verify_delivery.py",
+    "origin": "output/forest_retreat_v3/scripts/verify_delivery.py",
+    "source_sha256": "b414c5197537daec4f2677e085a958322959e1b416c044489cd19b7a0f9137a0",
+    "published_sha256": "aa6f16800f197b5e71202b6884cb267824d96e6f77867af125a0bfc2780dc025",
+    "adaptation": "Replace machine-specific FFmpeg fallback with PATH command."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/verify_v3.py",
+    "origin": "output/forest_retreat_v3/scripts/verify_v3.py",
+    "source_sha256": "0d3be65f6f12940e6c7e4f304d64ae47d28ef83bfcc0ce745cad9350b7f292c6",
+    "published_sha256": "b7a3593da209779a40ee08ff77e25eed87d2fb85f37847d460f6bb12a75a9e15",
+    "adaptation": "Replace machine-specific FFmpeg fallback with PATH command."
+  },
+  {
+    "file": "recipes/forest_retreat_v3/scripts/water_simulation.py",
+    "origin": "output/forest_retreat_v3/scripts/water_simulation.py",
+    "source_sha256": "e8b4cda02bab2d0cdafdc5380db0a53adb11cb161d1f9ec0351db8297a1a839b",
+    "published_sha256": "e8b4cda02bab2d0cdafdc5380db0a53adb11cb161d1f9ec0351db8297a1a839b",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/assemble_v4.py",
+    "origin": "output/forest_retreat_v4/scripts/assemble_v4.py",
+    "source_sha256": "10e78b5cff60a79a4c87c1c52b226a755e7d9836df98672057375a2241eed664",
+    "published_sha256": "10e78b5cff60a79a4c87c1c52b226a755e7d9836df98672057375a2241eed664",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/build_v4.py",
+    "origin": "output/forest_retreat_v4/scripts/build_v4.py",
+    "source_sha256": "eddebbd94f49ab3d59cfe05eed57619abe1dc1add3979dcffe566ed5018991a4",
+    "published_sha256": "eddebbd94f49ab3d59cfe05eed57619abe1dc1add3979dcffe566ed5018991a4",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/check_portable_scene.py",
+    "origin": "output/forest_retreat_v4/scripts/check_portable_scene.py",
+    "source_sha256": "037b1e080b0ba07867fa5a3c39b13336129429474a9848da5bc23ffbedee3777",
+    "published_sha256": "037b1e080b0ba07867fa5a3c39b13336129429474a9848da5bc23ffbedee3777",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/check_scene.py",
+    "origin": "output/forest_retreat_v4/scripts/check_scene.py",
+    "source_sha256": "ceb4afcf922116123a3cd1efa1398443daab2536b6d03c5f93c3342201d3da35",
+    "published_sha256": "ceb4afcf922116123a3cd1efa1398443daab2536b6d03c5f93c3342201d3da35",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/cinematography.py",
+    "origin": "output/forest_retreat_v4/scripts/cinematography.py",
+    "source_sha256": "5f08b0eeed4d8fbbdff04b2f3fd2efd9ee6c99ed7bcf06420ad67a9bb8f0004c",
+    "published_sha256": "5f08b0eeed4d8fbbdff04b2f3fd2efd9ee6c99ed7bcf06420ad67a9bb8f0004c",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/common.py",
+    "origin": "output/forest_retreat_v4/scripts/common.py",
+    "source_sha256": "505f5d33a5299017c1be1c59a9a496a8a87fd377301af2aaed557f5c99d24a5e",
+    "published_sha256": "505f5d33a5299017c1be1c59a9a496a8a87fd377301af2aaed557f5c99d24a5e",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/compare_motion.py",
+    "origin": "output/forest_retreat_v4/scripts/compare_motion.py",
+    "source_sha256": "a40ed5fd46b02ac6151af4bfe1c5a1397b6277f1c719bb7ce926ab29a1256e5a",
+    "published_sha256": "a40ed5fd46b02ac6151af4bfe1c5a1397b6277f1c719bb7ce926ab29a1256e5a",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/forest.py",
+    "origin": "output/forest_retreat_v4/scripts/forest.py",
+    "source_sha256": "f4c0a52639cffea040061ad526d570b9483a8dd920f068e96883ba9b792d68a5",
+    "published_sha256": "f4c0a52639cffea040061ad526d570b9483a8dd920f068e96883ba9b792d68a5",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/inspect_refinements.py",
+    "origin": "output/forest_retreat_v4/scripts/inspect_refinements.py",
+    "source_sha256": "385c30e993d4bcdb85c6fd87ba6bc491a23ea9dd19eff618543dcafdf6a3774c",
+    "published_sha256": "385c30e993d4bcdb85c6fd87ba6bc491a23ea9dd19eff618543dcafdf6a3774c",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/inspect_scene.py",
+    "origin": "output/forest_retreat_v4/scripts/inspect_scene.py",
+    "source_sha256": "84b0190ad702b9efa6f40e34dc2321e4441a5ef06f0e044b761ddbe344990ae2",
+    "published_sha256": "84b0190ad702b9efa6f40e34dc2321e4441a5ef06f0e044b761ddbe344990ae2",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/materials.py",
+    "origin": "output/forest_retreat_v4/scripts/materials.py",
+    "source_sha256": "89336198ea273ca89def68914954555abec4632d9aac211fddef9bb105b8fdaa",
+    "published_sha256": "89336198ea273ca89def68914954555abec4632d9aac211fddef9bb105b8fdaa",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/package_delivery.py",
+    "origin": "output/forest_retreat_v4/scripts/package_delivery.py",
+    "source_sha256": "65319a59289558272f65bd48509db8345f615f586896c1f8125d0c9d9ad8ba00",
+    "published_sha256": "65319a59289558272f65bd48509db8345f615f586896c1f8125d0c9d9ad8ba00",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/package_scene.py",
+    "origin": "output/forest_retreat_v4/scripts/package_scene.py",
+    "source_sha256": "a4494c70c54f0a54e9f961a3cbf1d9714057f632c81f30660d63831cae64341d",
+    "published_sha256": "a4494c70c54f0a54e9f961a3cbf1d9714057f632c81f30660d63831cae64341d",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/prepare_production.py",
+    "origin": "output/forest_retreat_v4/scripts/prepare_production.py",
+    "source_sha256": "5795c4f31ccf98ed6ae115275ac45c1983fbad5c73410f865ed5841aa9a7ff01",
+    "published_sha256": "5795c4f31ccf98ed6ae115275ac45c1983fbad5c73410f865ed5841aa9a7ff01",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/production.py",
+    "origin": "output/forest_retreat_v4/scripts/production.py",
+    "source_sha256": "67f12580af9f6dec986bc03ec8409a4a0ffbcc5fa637f20aa7bb75f2a7f6e062",
+    "published_sha256": "67f12580af9f6dec986bc03ec8409a4a0ffbcc5fa637f20aa7bb75f2a7f6e062",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/progress.py",
+    "origin": "output/forest_retreat_v4/scripts/progress.py",
+    "source_sha256": "84c7d5c93f971b18105e93d1f33e822954218bba7ab3cf57aa1facf9dc641953",
+    "published_sha256": "84c7d5c93f971b18105e93d1f33e822954218bba7ab3cf57aa1facf9dc641953",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/refine_scene.py",
+    "origin": "output/forest_retreat_v4/scripts/refine_scene.py",
+    "source_sha256": "2c101ab73645c5946ad59ddacc53d9d7f28ab56736ebea10795ddf419ab4a44c",
+    "published_sha256": "2c101ab73645c5946ad59ddacc53d9d7f28ab56736ebea10795ddf419ab4a44c",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/render_jobs.py",
+    "origin": "output/forest_retreat_v4/scripts/render_jobs.py",
+    "source_sha256": "96fe33ce81ff9321945a2acb13ec640be984393e407b6a7a0850297a02969613",
+    "published_sha256": "96fe33ce81ff9321945a2acb13ec640be984393e407b6a7a0850297a02969613",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/render_retreat.py",
+    "origin": "output/forest_retreat_v4/scripts/render_retreat.py",
+    "source_sha256": "aab95f89504b9cc8b5f7ad474f6e9ffdc1479ef55222ec531c9f25eb11ebda5d",
+    "published_sha256": "aab95f89504b9cc8b5f7ad474f6e9ffdc1479ef55222ec531c9f25eb11ebda5d",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/retreat_helpers.py",
+    "origin": "output/forest_retreat_v4/scripts/retreat_helpers.py",
+    "source_sha256": "fb2aad43fdf9eaf5e26655642ff0dddfeb2838f502ab6fd9a80375d97fc79363",
+    "published_sha256": "fb2aad43fdf9eaf5e26655642ff0dddfeb2838f502ab6fd9a80375d97fc79363",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/review_frames.py",
+    "origin": "output/forest_retreat_v4/scripts/review_frames.py",
+    "source_sha256": "17d266ed5358b1756384807da20ab6a3f5587410ee6a388aca0e7a4905663fae",
+    "published_sha256": "17d266ed5358b1756384807da20ab6a3f5587410ee6a388aca0e7a4905663fae",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/story.py",
+    "origin": "output/forest_retreat_v4/scripts/story.py",
+    "source_sha256": "7ce32bd5ab9736a96e595cf05c1180230e6b1246bf17a1a91c24e0a1a1071b70",
+    "published_sha256": "7ce32bd5ab9736a96e595cf05c1180230e6b1246bf17a1a91c24e0a1a1071b70",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v4/scripts/validate_video.py",
+    "origin": "output/forest_retreat_v4/scripts/validate_video.py",
+    "source_sha256": "4c27f0315c709abb03338066ed68470fd2c773649270e3007977905b6c2ff351",
+    "published_sha256": "4c27f0315c709abb03338066ed68470fd2c773649270e3007977905b6c2ff351",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v5/scripts/assemble_v5.py",
+    "origin": "output/forest_retreat_v5/scripts/assemble_v5.py",
+    "source_sha256": "7d3b1a1e896215e27ea1bcd8cc5c68b705a1efc8af074843125025dc857031bd",
+    "published_sha256": "7d3b1a1e896215e27ea1bcd8cc5c68b705a1efc8af074843125025dc857031bd",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v5/scripts/build_v5.py",
+    "origin": "output/forest_retreat_v5/scripts/build_v5.py",
+    "source_sha256": "1d837dccd3a7692c97436c7146bbaa268db8a2235f5d46e94f491d13b822cdb6",
+    "published_sha256": "1d837dccd3a7692c97436c7146bbaa268db8a2235f5d46e94f491d13b822cdb6",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v5/scripts/check_portable_scene.py",
+    "origin": "output/forest_retreat_v5/scripts/check_portable_scene.py",
+    "source_sha256": "037b1e080b0ba07867fa5a3c39b13336129429474a9848da5bc23ffbedee3777",
+    "published_sha256": "037b1e080b0ba07867fa5a3c39b13336129429474a9848da5bc23ffbedee3777",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v5/scripts/check_scene.py",
+    "origin": "output/forest_retreat_v5/scripts/check_scene.py",
+    "source_sha256": "ceb4afcf922116123a3cd1efa1398443daab2536b6d03c5f93c3342201d3da35",
+    "published_sha256": "ceb4afcf922116123a3cd1efa1398443daab2536b6d03c5f93c3342201d3da35",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v5/scripts/cinematography.py",
+    "origin": "output/forest_retreat_v5/scripts/cinematography.py",
+    "source_sha256": "5f08b0eeed4d8fbbdff04b2f3fd2efd9ee6c99ed7bcf06420ad67a9bb8f0004c",
+    "published_sha256": "5f08b0eeed4d8fbbdff04b2f3fd2efd9ee6c99ed7bcf06420ad67a9bb8f0004c",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v5/scripts/common.py",
+    "origin": "output/forest_retreat_v5/scripts/common.py",
+    "source_sha256": "505f5d33a5299017c1be1c59a9a496a8a87fd377301af2aaed557f5c99d24a5e",
+    "published_sha256": "505f5d33a5299017c1be1c59a9a496a8a87fd377301af2aaed557f5c99d24a5e",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v5/scripts/compare_motion.py",
+    "origin": "output/forest_retreat_v5/scripts/compare_motion.py",
+    "source_sha256": "8d2336dc3da7fe6a609e2aa7c89ccb2b715b7e4dd613b168f9c956d27dc95690",
+    "published_sha256": "8d2336dc3da7fe6a609e2aa7c89ccb2b715b7e4dd613b168f9c956d27dc95690",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v5/scripts/inspect_refinements.py",
+    "origin": "output/forest_retreat_v5/scripts/inspect_refinements.py",
+    "source_sha256": "1fb2351abd0d2125ea05d1b6d162f7288b087300c07ff2c44359d12396bcfab7",
+    "published_sha256": "1fb2351abd0d2125ea05d1b6d162f7288b087300c07ff2c44359d12396bcfab7",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v5/scripts/materials.py",
+    "origin": "output/forest_retreat_v5/scripts/materials.py",
+    "source_sha256": "89336198ea273ca89def68914954555abec4632d9aac211fddef9bb105b8fdaa",
+    "published_sha256": "89336198ea273ca89def68914954555abec4632d9aac211fddef9bb105b8fdaa",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v5/scripts/package_delivery.py",
+    "origin": "output/forest_retreat_v5/scripts/package_delivery.py",
+    "source_sha256": "b6b07e56ee456304d64df577a45f7f86ad6cfac2232a4717ccd6291bc2375213",
+    "published_sha256": "b6b07e56ee456304d64df577a45f7f86ad6cfac2232a4717ccd6291bc2375213",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v5/scripts/package_scene.py",
+    "origin": "output/forest_retreat_v5/scripts/package_scene.py",
+    "source_sha256": "841600ba80e4930caa8cc0f631ad329e979ebe65904a5691792f7b9a935df801",
+    "published_sha256": "841600ba80e4930caa8cc0f631ad329e979ebe65904a5691792f7b9a935df801",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v5/scripts/polish_foliage.py",
+    "origin": "output/forest_retreat_v5/scripts/polish_foliage.py",
+    "source_sha256": "f96a6afe5f0e99580f6e4e9c6e176ef802a288113c36cf5c389dbde34fef7a91",
+    "published_sha256": "f96a6afe5f0e99580f6e4e9c6e176ef802a288113c36cf5c389dbde34fef7a91",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v5/scripts/prepare_production.py",
+    "origin": "output/forest_retreat_v5/scripts/prepare_production.py",
+    "source_sha256": "5795c4f31ccf98ed6ae115275ac45c1983fbad5c73410f865ed5841aa9a7ff01",
+    "published_sha256": "5795c4f31ccf98ed6ae115275ac45c1983fbad5c73410f865ed5841aa9a7ff01",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v5/scripts/production.py",
+    "origin": "output/forest_retreat_v5/scripts/production.py",
+    "source_sha256": "6aaf9966201c7d5592df7967caf7cc895746d9bc2aee78bff41450f530892549",
+    "published_sha256": "6aaf9966201c7d5592df7967caf7cc895746d9bc2aee78bff41450f530892549",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v5/scripts/progress.py",
+    "origin": "output/forest_retreat_v5/scripts/progress.py",
+    "source_sha256": "099fb54915fc9c5f2845dc16f600acca47917d633251e00987905840e0018ef9",
+    "published_sha256": "099fb54915fc9c5f2845dc16f600acca47917d633251e00987905840e0018ef9",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v5/scripts/render_jobs.py",
+    "origin": "output/forest_retreat_v5/scripts/render_jobs.py",
+    "source_sha256": "277bc01322b8e5370d0b559d98ad2ca24e880823972c6be7e00022dc7e96d929",
+    "published_sha256": "277bc01322b8e5370d0b559d98ad2ca24e880823972c6be7e00022dc7e96d929",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v5/scripts/render_retreat.py",
+    "origin": "output/forest_retreat_v5/scripts/render_retreat.py",
+    "source_sha256": "aab95f89504b9cc8b5f7ad474f6e9ffdc1479ef55222ec531c9f25eb11ebda5d",
+    "published_sha256": "aab95f89504b9cc8b5f7ad474f6e9ffdc1479ef55222ec531c9f25eb11ebda5d",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v5/scripts/retreat_helpers.py",
+    "origin": "output/forest_retreat_v5/scripts/retreat_helpers.py",
+    "source_sha256": "fb2aad43fdf9eaf5e26655642ff0dddfeb2838f502ab6fd9a80375d97fc79363",
+    "published_sha256": "fb2aad43fdf9eaf5e26655642ff0dddfeb2838f502ab6fd9a80375d97fc79363",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v5/scripts/review_frames.py",
+    "origin": "output/forest_retreat_v5/scripts/review_frames.py",
+    "source_sha256": "17d266ed5358b1756384807da20ab6a3f5587410ee6a388aca0e7a4905663fae",
+    "published_sha256": "17d266ed5358b1756384807da20ab6a3f5587410ee6a388aca0e7a4905663fae",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v5/scripts/story.py",
+    "origin": "output/forest_retreat_v5/scripts/story.py",
+    "source_sha256": "7ce32bd5ab9736a96e595cf05c1180230e6b1246bf17a1a91c24e0a1a1071b70",
+    "published_sha256": "7ce32bd5ab9736a96e595cf05c1180230e6b1246bf17a1a91c24e0a1a1071b70",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v5/scripts/validate_video.py",
+    "origin": "output/forest_retreat_v5/scripts/validate_video.py",
+    "source_sha256": "5128958890caf921e7c74f1b7da9b14325a4328ce46f59690c8a41949761cccb",
+    "published_sha256": "5128958890caf921e7c74f1b7da9b14325a4328ce46f59690c8a41949761cccb",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/assemble_v6.py",
+    "origin": "output/forest_retreat_v6/scripts/assemble_v6.py",
+    "source_sha256": "b53491af3c48fdcd73f321633d52d1f80e33f55a191b3026b8474a8be90de6e5",
+    "published_sha256": "b53491af3c48fdcd73f321633d52d1f80e33f55a191b3026b8474a8be90de6e5",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/build_v6.py",
+    "origin": "output/forest_retreat_v6/scripts/build_v6.py",
+    "source_sha256": "34b8925683e43e80cd7d719f89721b52a6ba2bd4375fdeda5571f5cae372000b",
+    "published_sha256": "34b8925683e43e80cd7d719f89721b52a6ba2bd4375fdeda5571f5cae372000b",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/check_portable_scene.py",
+    "origin": "output/forest_retreat_v6/scripts/check_portable_scene.py",
+    "source_sha256": "1c6b343d0b019858cd8a7041f38a3070e271b457609bbc6f1c097d6f47991569",
+    "published_sha256": "1c6b343d0b019858cd8a7041f38a3070e271b457609bbc6f1c097d6f47991569",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/check_scene.py",
+    "origin": "output/forest_retreat_v6/scripts/check_scene.py",
+    "source_sha256": "94b557980c9339e2be2d488c140d8531a966f2fd95cfd0ac98a856edcf1c008e",
+    "published_sha256": "94b557980c9339e2be2d488c140d8531a966f2fd95cfd0ac98a856edcf1c008e",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/cinematography.py",
+    "origin": "output/forest_retreat_v6/scripts/cinematography.py",
+    "source_sha256": "5f08b0eeed4d8fbbdff04b2f3fd2efd9ee6c99ed7bcf06420ad67a9bb8f0004c",
+    "published_sha256": "5f08b0eeed4d8fbbdff04b2f3fd2efd9ee6c99ed7bcf06420ad67a9bb8f0004c",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/common.py",
+    "origin": "output/forest_retreat_v6/scripts/common.py",
+    "source_sha256": "505f5d33a5299017c1be1c59a9a496a8a87fd377301af2aaed557f5c99d24a5e",
+    "published_sha256": "505f5d33a5299017c1be1c59a9a496a8a87fd377301af2aaed557f5c99d24a5e",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/compare_motion.py",
+    "origin": "output/forest_retreat_v6/scripts/compare_motion.py",
+    "source_sha256": "0fc08384e9a66fc953219d2d6f800b8d2f2b035fbd915743a31450d787c2abc2",
+    "published_sha256": "0fc08384e9a66fc953219d2d6f800b8d2f2b035fbd915743a31450d787c2abc2",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/film.py",
+    "origin": "output/forest_retreat_v6/scripts/film.py",
+    "source_sha256": "941133df279400e8cd5666629ea890770934ecca41d50d7fc37bd45e66764327",
+    "published_sha256": "941133df279400e8cd5666629ea890770934ecca41d50d7fc37bd45e66764327",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/inspect_refinements.py",
+    "origin": "output/forest_retreat_v6/scripts/inspect_refinements.py",
+    "source_sha256": "1fb2351abd0d2125ea05d1b6d162f7288b087300c07ff2c44359d12396bcfab7",
+    "published_sha256": "1fb2351abd0d2125ea05d1b6d162f7288b087300c07ff2c44359d12396bcfab7",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/materials.py",
+    "origin": "output/forest_retreat_v6/scripts/materials.py",
+    "source_sha256": "89336198ea273ca89def68914954555abec4632d9aac211fddef9bb105b8fdaa",
+    "published_sha256": "89336198ea273ca89def68914954555abec4632d9aac211fddef9bb105b8fdaa",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/measure_motion.py",
+    "origin": "output/forest_retreat_v6/scripts/measure_motion.py",
+    "source_sha256": "5448cb90de39c7def1750f2a15630265f9a437271d36b94c755f2ed105fc550a",
+    "published_sha256": "5448cb90de39c7def1750f2a15630265f9a437271d36b94c755f2ed105fc550a",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/package_delivery.py",
+    "origin": "output/forest_retreat_v6/scripts/package_delivery.py",
+    "source_sha256": "991a3b811d276d83a906ebe8e6b88bed613f5d334e4fc0cc367c3626329e2b96",
+    "published_sha256": "991a3b811d276d83a906ebe8e6b88bed613f5d334e4fc0cc367c3626329e2b96",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/package_scene.py",
+    "origin": "output/forest_retreat_v6/scripts/package_scene.py",
+    "source_sha256": "63c3b93ecce0454836f9785696cbc11ee354957c6bf6e0301d82c10d188a49ab",
+    "published_sha256": "63c3b93ecce0454836f9785696cbc11ee354957c6bf6e0301d82c10d188a49ab",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/prepare_production.py",
+    "origin": "output/forest_retreat_v6/scripts/prepare_production.py",
+    "source_sha256": "7a57456a321395eeed5b689acc25e8432364dc2ab7955f1c483237cae207ea11",
+    "published_sha256": "7a57456a321395eeed5b689acc25e8432364dc2ab7955f1c483237cae207ea11",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/production.py",
+    "origin": "output/forest_retreat_v6/scripts/production.py",
+    "source_sha256": "fcd5ee104887a5511f3c379fb682a6a11dcbd89698f92a0a9c191a95c27922f4",
+    "published_sha256": "fcd5ee104887a5511f3c379fb682a6a11dcbd89698f92a0a9c191a95c27922f4",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/progress.py",
+    "origin": "output/forest_retreat_v6/scripts/progress.py",
+    "source_sha256": "27915869d06475c3337db9c3af2278d1378a7f4ef5ca3df1edff32df8c438a64",
+    "published_sha256": "27915869d06475c3337db9c3af2278d1378a7f4ef5ca3df1edff32df8c438a64",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/render_jobs.py",
+    "origin": "output/forest_retreat_v6/scripts/render_jobs.py",
+    "source_sha256": "438404caab2b9805b8301eb20e8bc3e458c77266167228a21d8b99370723be03",
+    "published_sha256": "438404caab2b9805b8301eb20e8bc3e458c77266167228a21d8b99370723be03",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/render_retreat.py",
+    "origin": "output/forest_retreat_v6/scripts/render_retreat.py",
+    "source_sha256": "aab95f89504b9cc8b5f7ad474f6e9ffdc1479ef55222ec531c9f25eb11ebda5d",
+    "published_sha256": "aab95f89504b9cc8b5f7ad474f6e9ffdc1479ef55222ec531c9f25eb11ebda5d",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/retreat_helpers.py",
+    "origin": "output/forest_retreat_v6/scripts/retreat_helpers.py",
+    "source_sha256": "fb2aad43fdf9eaf5e26655642ff0dddfeb2838f502ab6fd9a80375d97fc79363",
+    "published_sha256": "fb2aad43fdf9eaf5e26655642ff0dddfeb2838f502ab6fd9a80375d97fc79363",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/review_frames.py",
+    "origin": "output/forest_retreat_v6/scripts/review_frames.py",
+    "source_sha256": "17d266ed5358b1756384807da20ab6a3f5587410ee6a388aca0e7a4905663fae",
+    "published_sha256": "17d266ed5358b1756384807da20ab6a3f5587410ee6a388aca0e7a4905663fae",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/review_native_details.py",
+    "origin": "output/forest_retreat_v6/scripts/review_native_details.py",
+    "source_sha256": "7689e4436d7d9eedddcf7a7ac138955fac55971d6dfaff6d8cfcb4109a0c4202",
+    "published_sha256": "7689e4436d7d9eedddcf7a7ac138955fac55971d6dfaff6d8cfcb4109a0c4202",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/story.py",
+    "origin": "output/forest_retreat_v6/scripts/story.py",
+    "source_sha256": "d49f130b62a2e18620ae71948e69da164f1d6e62d3421fea2c5ab9383b1697e8",
+    "published_sha256": "d49f130b62a2e18620ae71948e69da164f1d6e62d3421fea2c5ab9383b1697e8",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v6/scripts/validate_video.py",
+    "origin": "output/forest_retreat_v6/scripts/validate_video.py",
+    "source_sha256": "e148952555677bf5bf2270fe9f0c4817275990946b87b454d8a875e2166028f3",
+    "published_sha256": "e148952555677bf5bf2270fe9f0c4817275990946b87b454d8a875e2166028f3",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/assemble_v7.py",
+    "origin": "output/forest_retreat_v7/scripts/assemble_v7.py",
+    "source_sha256": "cd32d4494aa00e1b81c6d0af2fecd5f532850d6db1904099b2fa821c6753bd0d",
+    "published_sha256": "cd32d4494aa00e1b81c6d0af2fecd5f532850d6db1904099b2fa821c6753bd0d",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/build_v7.py",
+    "origin": "output/forest_retreat_v7/scripts/build_v7.py",
+    "source_sha256": "90921019e39766f1abb319f36abadf9905145b159e65c3c3723b099f6963728e",
+    "published_sha256": "90921019e39766f1abb319f36abadf9905145b159e65c3c3723b099f6963728e",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/check_portable_scene.py",
+    "origin": "output/forest_retreat_v7/scripts/check_portable_scene.py",
+    "source_sha256": "c6ced45cd2e066fb051085fdf8fa215ae44fa7fb608875156ccd44a06a22e862",
+    "published_sha256": "c6ced45cd2e066fb051085fdf8fa215ae44fa7fb608875156ccd44a06a22e862",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/check_scene.py",
+    "origin": "output/forest_retreat_v7/scripts/check_scene.py",
+    "source_sha256": "bc48a82c97b88c7d2354551556a927ac40ea99778c34eae78314d2b295218123",
+    "published_sha256": "bc48a82c97b88c7d2354551556a927ac40ea99778c34eae78314d2b295218123",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/cinematography.py",
+    "origin": "output/forest_retreat_v7/scripts/cinematography.py",
+    "source_sha256": "5f08b0eeed4d8fbbdff04b2f3fd2efd9ee6c99ed7bcf06420ad67a9bb8f0004c",
+    "published_sha256": "5f08b0eeed4d8fbbdff04b2f3fd2efd9ee6c99ed7bcf06420ad67a9bb8f0004c",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/common.py",
+    "origin": "output/forest_retreat_v7/scripts/common.py",
+    "source_sha256": "505f5d33a5299017c1be1c59a9a496a8a87fd377301af2aaed557f5c99d24a5e",
+    "published_sha256": "505f5d33a5299017c1be1c59a9a496a8a87fd377301af2aaed557f5c99d24a5e",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/compare_motion.py",
+    "origin": "output/forest_retreat_v7/scripts/compare_motion.py",
+    "source_sha256": "1f515b45c3541fee60a77a691d53b0097101075c50ec04fe0bd63c7d5565574a",
+    "published_sha256": "1f515b45c3541fee60a77a691d53b0097101075c50ec04fe0bd63c7d5565574a",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/extend_water_cache.py",
+    "origin": "output/forest_retreat_v7/scripts/extend_water_cache.py",
+    "source_sha256": "1594d40a34291a4ca822aa587e2a9700b2601a397b6ed4d8929218c9ac7741d3",
+    "published_sha256": "1594d40a34291a4ca822aa587e2a9700b2601a397b6ed4d8929218c9ac7741d3",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/film.py",
+    "origin": "output/forest_retreat_v7/scripts/film.py",
+    "source_sha256": "c513ccd4d0e467a4f554aee8f104b451676f872bfc0c5461b513a2eec3114e52",
+    "published_sha256": "c513ccd4d0e467a4f554aee8f104b451676f872bfc0c5461b513a2eec3114e52",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/inspect_refinements.py",
+    "origin": "output/forest_retreat_v7/scripts/inspect_refinements.py",
+    "source_sha256": "1fb2351abd0d2125ea05d1b6d162f7288b087300c07ff2c44359d12396bcfab7",
+    "published_sha256": "1fb2351abd0d2125ea05d1b6d162f7288b087300c07ff2c44359d12396bcfab7",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/materials.py",
+    "origin": "output/forest_retreat_v7/scripts/materials.py",
+    "source_sha256": "89336198ea273ca89def68914954555abec4632d9aac211fddef9bb105b8fdaa",
+    "published_sha256": "89336198ea273ca89def68914954555abec4632d9aac211fddef9bb105b8fdaa",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/measure_motion.py",
+    "origin": "output/forest_retreat_v7/scripts/measure_motion.py",
+    "source_sha256": "5448cb90de39c7def1750f2a15630265f9a437271d36b94c755f2ed105fc550a",
+    "published_sha256": "5448cb90de39c7def1750f2a15630265f9a437271d36b94c755f2ed105fc550a",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/package_delivery.py",
+    "origin": "output/forest_retreat_v7/scripts/package_delivery.py",
+    "source_sha256": "d7bfc311cb8ab2268f945c5f13f0e7aa880470c7691c99204b75320acc65bf99",
+    "published_sha256": "d7bfc311cb8ab2268f945c5f13f0e7aa880470c7691c99204b75320acc65bf99",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/package_scene.py",
+    "origin": "output/forest_retreat_v7/scripts/package_scene.py",
+    "source_sha256": "9186b00bc60385280e394fff0e79f0aef547c018d6520236a8316efffa895006",
+    "published_sha256": "9186b00bc60385280e394fff0e79f0aef547c018d6520236a8316efffa895006",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/prepare_pilot_reuse.py",
+    "origin": "output/forest_retreat_v7/scripts/prepare_pilot_reuse.py",
+    "source_sha256": "996a3d83b9dff6238974ebdeaa00f0b72bbf34eb47b4432b8bca40f081d6ccd2",
+    "published_sha256": "996a3d83b9dff6238974ebdeaa00f0b72bbf34eb47b4432b8bca40f081d6ccd2",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/prepare_production.py",
+    "origin": "output/forest_retreat_v7/scripts/prepare_production.py",
+    "source_sha256": "7a57456a321395eeed5b689acc25e8432364dc2ab7955f1c483237cae207ea11",
+    "published_sha256": "7a57456a321395eeed5b689acc25e8432364dc2ab7955f1c483237cae207ea11",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/production.py",
+    "origin": "output/forest_retreat_v7/scripts/production.py",
+    "source_sha256": "59342b93a2cdd5b30d2d7c4fd129d71947cea4b6e28f18f2e4bfc7331f86d35d",
+    "published_sha256": "59342b93a2cdd5b30d2d7c4fd129d71947cea4b6e28f18f2e4bfc7331f86d35d",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/progress.py",
+    "origin": "output/forest_retreat_v7/scripts/progress.py",
+    "source_sha256": "27915869d06475c3337db9c3af2278d1378a7f4ef5ca3df1edff32df8c438a64",
+    "published_sha256": "27915869d06475c3337db9c3af2278d1378a7f4ef5ca3df1edff32df8c438a64",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/render_jobs.py",
+    "origin": "output/forest_retreat_v7/scripts/render_jobs.py",
+    "source_sha256": "0efc0ea281216f0bd259c3554a7b710bff4bfdb4ad5fafb20cb6bda3c285e8eb",
+    "published_sha256": "0efc0ea281216f0bd259c3554a7b710bff4bfdb4ad5fafb20cb6bda3c285e8eb",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/render_retreat.py",
+    "origin": "output/forest_retreat_v7/scripts/render_retreat.py",
+    "source_sha256": "aab95f89504b9cc8b5f7ad474f6e9ffdc1479ef55222ec531c9f25eb11ebda5d",
+    "published_sha256": "aab95f89504b9cc8b5f7ad474f6e9ffdc1479ef55222ec531c9f25eb11ebda5d",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/retreat_helpers.py",
+    "origin": "output/forest_retreat_v7/scripts/retreat_helpers.py",
+    "source_sha256": "fb2aad43fdf9eaf5e26655642ff0dddfeb2838f502ab6fd9a80375d97fc79363",
+    "published_sha256": "fb2aad43fdf9eaf5e26655642ff0dddfeb2838f502ab6fd9a80375d97fc79363",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/review_cut_motion.py",
+    "origin": "output/forest_retreat_v7/scripts/review_cut_motion.py",
+    "source_sha256": "a454da10fd25cd0e1a6ee80a460d5ebd8cc635e0efaa1d23e6a23a41ad84463b",
+    "published_sha256": "a454da10fd25cd0e1a6ee80a460d5ebd8cc635e0efaa1d23e6a23a41ad84463b",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/review_frames.py",
+    "origin": "output/forest_retreat_v7/scripts/review_frames.py",
+    "source_sha256": "17d266ed5358b1756384807da20ab6a3f5587410ee6a388aca0e7a4905663fae",
+    "published_sha256": "17d266ed5358b1756384807da20ab6a3f5587410ee6a388aca0e7a4905663fae",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/review_native_details.py",
+    "origin": "output/forest_retreat_v7/scripts/review_native_details.py",
+    "source_sha256": "ea29d8ea51994890a6d156752162f42f2c3702ca679ab3648c8209c94e795bed",
+    "published_sha256": "ea29d8ea51994890a6d156752162f42f2c3702ca679ab3648c8209c94e795bed",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/review_native_sequence.py",
+    "origin": "output/forest_retreat_v7/scripts/review_native_sequence.py",
+    "source_sha256": "f1cf3971ef7de59e9ef14d63c1fd31085a7bdc601f69690a26a936e1ebec92fc",
+    "published_sha256": "f1cf3971ef7de59e9ef14d63c1fd31085a7bdc601f69690a26a936e1ebec92fc",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/story.py",
+    "origin": "output/forest_retreat_v7/scripts/story.py",
+    "source_sha256": "151ae9a4b310e94108cd5df972e0d7c839d1bc7a4370968d0cd07a423d4f9660",
+    "published_sha256": "151ae9a4b310e94108cd5df972e0d7c839d1bc7a4370968d0cd07a423d4f9660",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/validate_video.py",
+    "origin": "output/forest_retreat_v7/scripts/validate_video.py",
+    "source_sha256": "6e54265b920e413b9911b2fb3f3abad1e5577c4d0417f82f123e3c5241f9458d",
+    "published_sha256": "6e54265b920e413b9911b2fb3f3abad1e5577c4d0417f82f123e3c5241f9458d",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/verify_long_takes.py",
+    "origin": "output/forest_retreat_v7/scripts/verify_long_takes.py",
+    "source_sha256": "bbbe93afb620dd2179a9aafa46db4f49f4f5041b5ec4205490025cb7fac670f5",
+    "published_sha256": "bbbe93afb620dd2179a9aafa46db4f49f4f5041b5ec4205490025cb7fac670f5",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v7/scripts/water_simulation.py",
+    "origin": "output/forest_retreat_v7/scripts/water_simulation.py",
+    "source_sha256": "e8b4cda02bab2d0cdafdc5380db0a53adb11cb161d1f9ec0351db8297a1a839b",
+    "published_sha256": "e8b4cda02bab2d0cdafdc5380db0a53adb11cb161d1f9ec0351db8297a1a839b",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v8/scripts/edit.py",
+    "origin": "output/forest_retreat_v8/scripts/edit.py",
+    "source_sha256": "58908a1004c2c9c10c70c3af6907a70f7df42035849944c19ee090f937ff3618",
+    "published_sha256": "58908a1004c2c9c10c70c3af6907a70f7df42035849944c19ee090f937ff3618",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v8/scripts/encode_final.py",
+    "origin": "output/forest_retreat_v8/scripts/encode_final.py",
+    "source_sha256": "8bcc8404f51f334587fcbb524dab054b6a85fe89198595b920f98c4f1622a052",
+    "published_sha256": "8bcc8404f51f334587fcbb524dab054b6a85fe89198595b920f98c4f1622a052",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v8/scripts/encode_v8.py",
+    "origin": "output/forest_retreat_v8/scripts/encode_v8.py",
+    "source_sha256": "3cbf2d6e44585431673d25a0a8f0295aceb1467de4046536903b5c44f342b67b",
+    "published_sha256": "3cbf2d6e44585431673d25a0a8f0295aceb1467de4046536903b5c44f342b67b",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v8/scripts/produce.py",
+    "origin": "output/forest_retreat_v8/scripts/produce.py",
+    "source_sha256": "3c2a55eb747306df9c04630abf03d8024ec9329f94e4e9fd265955b2bfb890e6",
+    "published_sha256": "3c2a55eb747306df9c04630abf03d8024ec9329f94e4e9fd265955b2bfb890e6",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v8/scripts/render_intro.py",
+    "origin": "output/forest_retreat_v8/scripts/render_intro.py",
+    "source_sha256": "38e2063f5fc35dc5c8285e21c89b79358d9413764d1ed8f55925c06869e821a4",
+    "published_sha256": "38e2063f5fc35dc5c8285e21c89b79358d9413764d1ed8f55925c06869e821a4",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v8/scripts/validate_v8.py",
+    "origin": "output/forest_retreat_v8/scripts/validate_v8.py",
+    "source_sha256": "8406f36d3f006a00b015b58ad01e30b578436ec05b19f452027b7b0278505f6e",
+    "published_sha256": "8406f36d3f006a00b015b58ad01e30b578436ec05b19f452027b7b0278505f6e",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v9/scripts/edit.py",
+    "origin": "output/forest_retreat_v9/scripts/edit.py",
+    "source_sha256": "9be6ca7355299159736f982c7542670564f13ef9431a3f3feeb78ebd9caecb38",
+    "published_sha256": "9be6ca7355299159736f982c7542670564f13ef9431a3f3feeb78ebd9caecb38",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v9/scripts/encode_final.py",
+    "origin": "output/forest_retreat_v9/scripts/encode_final.py",
+    "source_sha256": "c6b5cddf9b1a0a082cd0b5e20b51530d85e3b0413fc9e1434f266c807e8bf92e",
+    "published_sha256": "c6b5cddf9b1a0a082cd0b5e20b51530d85e3b0413fc9e1434f266c807e8bf92e",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v9/scripts/produce.py",
+    "origin": "output/forest_retreat_v9/scripts/produce.py",
+    "source_sha256": "587b412fa858d61b3ccc1f3162bcf152983b78d1db2b4c2e02f8e2d0beb0e580",
+    "published_sha256": "587b412fa858d61b3ccc1f3162bcf152983b78d1db2b4c2e02f8e2d0beb0e580",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v9/scripts/render_intro.py",
+    "origin": "output/forest_retreat_v9/scripts/render_intro.py",
+    "source_sha256": "826435a14f3880ec6e3ef0eea17be3567e7b76e9f61bc546905ab0b828a1c756",
+    "published_sha256": "826435a14f3880ec6e3ef0eea17be3567e7b76e9f61bc546905ab0b828a1c756",
+    "adaptation": "Unmodified source snapshot."
+  },
+  {
+    "file": "recipes/forest_retreat_v9/scripts/validate_v9.py",
+    "origin": "output/forest_retreat_v9/scripts/validate_v9.py",
+    "source_sha256": "e7982890d8d2730d1de48a6f2ad29d3da400285a6a783576cd9d5867a60ba05f",
+    "published_sha256": "e7982890d8d2730d1de48a6f2ad29d3da400285a6a783576cd9d5867a60ba05f",
+    "adaptation": "Unmodified source snapshot."
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "tag": "v10.0.0",
+  "film_version": "v10",
+  "scene_version": "v7",
+  "files": [
+    {
+      "file": "Golden_Hour_Forest_Retreat_v10_2160.mp4",
+      "bytes": 194910447,
+      "sha256": "bcbddb227edb76173e88853f3b2c1f208dd47b00fa42fc08881a426176fe7719",
+      "url": "https://github.com/Warren-swr/golden-hour-companion/releases/download/v10.0.0/Golden_Hour_Forest_Retreat_v10_2160.mp4"
+    },
+    {
+      "file": "Golden_Hour_Forest_Retreat_v10_1080_preview.mp4",
+      "bytes": 35174096,
+      "sha256": "fa67ec80a3a51d07a5c65684d928ccdc78fdc0f9b6b22607ce03b983149c5c9a",
+      "url": "https://github.com/Warren-swr/golden-hour-companion/releases/download/v10.0.0/Golden_Hour_Forest_Retreat_v10_1080_preview.mp4"
+    },
+    {
+      "file": "Golden_Hour_Forest_Retreat_v7_scene.zip",
+      "bytes": 548126046,
+      "sha256": "e4cd2f71bd47bdcf5838b44cc6921c3796cd306ea3b99bda1599b2f6d42a134c",
+      "url": "https://github.com/Warren-swr/golden-hour-companion/releases/download/v10.0.0/Golden_Hour_Forest_Retreat_v7_scene.zip"
+    }
+  ]
+}

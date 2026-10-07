@@ -1,0 +1,122 @@
+[
+  {
+    "asset": "bark_brown_02",
+    "channel": "Diffuse",
+    "file": "assets/textures/bark_brown_02_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/bark_brown_02/bark_brown_02_diff_2k.jpg",
+    "license": "CC0-1.0",
+    "source": "https://polyhaven.com/a/bark_brown_02",
+    "sha256": "285051e34826ace29f4ab438ad35cc1201b2aae0a6157a5f3c0bf6667bbc539e",
+    "bytes": 2356592
+  },
+  {
+    "asset": "bark_brown_02",
+    "channel": "Rough",
+    "file": "assets/textures/bark_brown_02_rough_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/bark_brown_02/bark_brown_02_rough_2k.jpg",
+    "license": "CC0-1.0",
+    "source": "https://polyhaven.com/a/bark_brown_02",
+    "sha256": "adafcab150c1ca99150c77198329e251437dc00fa1f66019f75624366926996e",
+    "bytes": 1236654
+  },
+  {
+    "asset": "bark_brown_02",
+    "channel": "Displacement",
+    "file": "assets/textures/bark_brown_02_disp_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/bark_brown_02/bark_brown_02_disp_2k.jpg",
+    "license": "CC0-1.0",
+    "source": "https://polyhaven.com/a/bark_brown_02",
+    "sha256": "bbcbba94be86527048d658974e43046a53bf2ada01aa8dd991c85d5069b48b23",
+    "bytes": 534990
+  },
+  {
+    "asset": "forest_ground_04",
+    "channel": "Diffuse",
+    "file": "assets/textures/forest_ground_04_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/forest_ground_04/forest_ground_04_diff_2k.jpg",
+    "license": "CC0-1.0",
+    "source": "https://polyhaven.com/a/forest_ground_04",
+    "sha256": "24b8aaf4c8547305d80b0e029ec365219ab1b90748d4ca5651bdc9e75bfde5e6",
+    "bytes": 4529321
+  },
+  {
+    "asset": "forest_ground_04",
+    "channel": "Rough",
+    "file": "assets/textures/forest_ground_04_rough_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/forest_ground_04/forest_ground_04_rough_2k.jpg",
+    "license": "CC0-1.0",
+    "source": "https://polyhaven.com/a/forest_ground_04",
+    "sha256": "24194662948424c323c75e0918461ad9d38bc0a275022000144f248b3efb4119",
+    "bytes": 2509805
+  },
+  {
+    "asset": "forest_ground_04",
+    "channel": "Displacement",
+    "file": "assets/textures/forest_ground_04_disp_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/forest_ground_04/forest_ground_04_disp_2k.jpg",
+    "license": "CC0-1.0",
+    "source": "https://polyhaven.com/a/forest_ground_04",
+    "sha256": "2ab943aedc87e4f258db43365c65d9cb834923c85817bc8fc8262397014a35a5",
+    "bytes": 696276
+  },
+  {
+    "asset": "wood_planks",
+    "channel": "Diffuse",
+    "file": "assets/textures/wood_planks_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/wood_planks/wood_planks_diff_2k.jpg",
+    "license": "CC0-1.0",
+    "source": "https://polyhaven.com/a/wood_planks",
+    "sha256": "caa1e71809521050fe0753ee7c17aa2faf32055fe53aff013415bc459dd23ea7",
+    "bytes": 2387732
+  },
+  {
+    "asset": "wood_planks",
+    "channel": "Rough",
+    "file": "assets/textures/wood_planks_rough_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/wood_planks/wood_planks_rough_2k.jpg",
+    "license": "CC0-1.0",
+    "source": "https://polyhaven.com/a/wood_planks",
+    "sha256": "56e3bafda8dfbeb8730b10d59c7541e983cff43b5b74f58d6d2c437f2b9455a1",
+    "bytes": 1151798
+  },
+  {
+    "asset": "wood_planks",
+    "channel": "Displacement",
+    "file": "assets/textures/wood_planks_disp_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/wood_planks/wood_planks_disp_2k.jpg",
+    "license": "CC0-1.0",
+    "source": "https://polyhaven.com/a/wood_planks",
+    "sha256": "55397640a3cfa24f45e685411bd05b3ddf80c4fba1fa18705fb8c25940958cd6",
+    "bytes": 678214
+  },
+  {
+    "asset": "rock_boulder_dry",
+    "channel": "Diffuse",
+    "file": "assets/textures/rock_boulder_dry_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_boulder_dry/rock_boulder_dry_diff_2k.jpg",
+    "license": "CC0-1.0",
+    "source": "https://polyhaven.com/a/rock_boulder_dry",
+    "sha256": "c66de7f7b48ef1ba542c17af780787ca6d43da2160a46ff3544dd9fcdf65ca30",
+    "bytes": 3437626
+  },
+  {
+    "asset": "rock_boulder_dry",
+    "channel": "Rough",
+    "file": "assets/textures/rock_boulder_dry_rough_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_boulder_dry/rock_boulder_dry_rough_2k.jpg",
+    "license": "CC0-1.0",
+    "source": "https://polyhaven.com/a/rock_boulder_dry",
+    "sha256": "63bb4105e6f60b5968da785afc292b94026a5afa6f18388e98b00232e9e2c433",
+    "bytes": 2706723
+  },
+  {
+    "asset": "rock_boulder_dry",
+    "channel": "Displacement",
+    "file": "assets/textures/rock_boulder_dry_disp_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_boulder_dry/rock_boulder_dry_disp_2k.jpg",
+    "license": "CC0-1.0",
+    "source": "https://polyhaven.com/a/rock_boulder_dry",
+    "sha256": "e8ef6d94411f6b8396425426c08d9848feb0c81ac29c4a6acae28342786f17a1",
+    "bytes": 785931
+  }
+]

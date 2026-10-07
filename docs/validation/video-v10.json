@@ -1,0 +1,65 @@
+{
+  "movie": "Golden_Hour_Forest_Retreat_v10_2160.mp4",
+  "movie_sha256": "bcbddb227edb76173e88853f3b2c1f208dd47b00fa42fc08881a426176fe7719",
+  "resolution": 2160,
+  "frames": 1416,
+  "duration": 59.0,
+  "silent": true,
+  "decoded_every_frame": true,
+  "black_frames": [],
+  "unexpected_jumps": [],
+  "decoded_duplicates": [
+    3,
+    20,
+    44,
+    68,
+    71
+  ],
+  "playback_during_expansion": true,
+  "embedded_source_frames": 60,
+  "sampled_frames": 143,
+  "contact_sheets": 6,
+  "join_frame_metrics": [
+    {
+      "frame": 72,
+      "delta": 9.063521702046273e-07,
+      "luminance": 0.2874250113964081,
+      "cut": false
+    },
+    {
+      "frame": 73,
+      "delta": 1.8573835404822603e-05,
+      "luminance": 0.28741690516471863,
+      "cut": false
+    },
+    {
+      "frame": 131,
+      "delta": 0.003508195513859391,
+      "luminance": 0.34906893968582153,
+      "cut": false
+    },
+    {
+      "frame": 132,
+      "delta": 0.003533177310600877,
+      "luminance": 0.34887391328811646,
+      "cut": false
+    },
+    {
+      "frame": 133,
+      "delta": 0.003578431671485305,
+      "luminance": 0.3488537073135376,
+      "cut": false
+    },
+    {
+      "frame": 134,
+      "delta": 0.0035048380959779024,
+      "luminance": 0.34875619411468506,
+      "cut": false
+    }
+  ],
+  "maximum_noncut_difference": 0.017419910058379173,
+  "native_intro_frames_verified": 132,
+  "final_intro_png_matches_source": true,
+  "preview_sha256": "fa67ec80a3a51d07a5c65684d928ccdc78fdc0f9b6b22607ce03b983149c5c9a",
+  "preview_decoded_frames": 1416
+}
