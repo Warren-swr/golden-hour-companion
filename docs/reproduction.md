@@ -2,7 +2,7 @@
 
 ## 编辑和渲染最新场景
 
-下载 Release 中的 `Golden_Hour_Forest_Retreat_v7_scene.zip`，解压到 `work/scene/`。工程中的 12 张纹理已经嵌入；`cache/pool_gravity_capillary.mdd` 必须留在 `.blend` 的相对路径下。
+公开仓库目前只包含源码和展示图，影片与场景附件尚未发布。以下步骤适用于取得 `Golden_Hour_Forest_Retreat_v7_scene.zip` 后使用，将其解压到 `work/scene/`。工程中的 12 张纹理已经嵌入；`cache/pool_gravity_capillary.mdd` 必须留在 `.blend` 的相对路径下。
 
 场景使用 Blender 4.5.12 LTS 制作。时间轴为 1–1344 帧、24 fps，九个相机切点已写入工程。`tools/render_scene.py` 支持 CPU、CUDA 或 OptiX，输出 RGB 16-bit PNG；它不覆盖输入工程或已存在的目标帧。
 

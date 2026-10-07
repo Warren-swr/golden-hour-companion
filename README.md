@@ -4,17 +4,17 @@ Blender / Cycles 森林住宅与电影短片制作项目：从夕阳中的花朵
 
 ![住宅与环境](media/scene-overview.jpg)
 
-## 观看与下载
+## 影片与场景
 
 当前影片为 v10：59 秒、24 fps、2160 × 2160，无声。Apple Music 风格播放器完整显示 3 秒，然后非线性展开封面，并同步播放封面内的场景。三维场景为 v7，包含九个镜头及三段连续长镜头。
 
 | 文件 | 用途 | 体积 |
 | --- | --- | --- |
-| [1080 预览](https://github.com/Warren-swr/golden-hour-companion/releases/download/v10.0.0/Golden_Hour_Forest_Retreat_v10_1080_preview.mp4) | 快速观看完整影片 | 35.17 MB |
-| [2160 正式影片](https://github.com/Warren-swr/golden-hour-companion/releases/download/v10.0.0/Golden_Hour_Forest_Retreat_v10_2160.mp4) | 高清播放与分享 | 194.91 MB |
-| [可编辑场景](https://github.com/Warren-swr/golden-hour-companion/releases/download/v10.0.0/Golden_Hour_Forest_Retreat_v7_scene.zip) | Blender 工程、嵌入贴图、完整水面缓存 | 548.13 MB |
+| 1080 预览 | 快速观看完整影片 | 35.17 MB |
+| 2160 正式影片 | 高清播放与分享 | 194.91 MB |
+| 可编辑场景 | Blender 工程、嵌入贴图、完整水面缓存 | 548.13 MB |
 
-下载入口：[Releases](https://github.com/Warren-swr/golden-hour-companion/releases/tag/v10.0.0)。文件哈希见 [发布资产清单](docs/release-assets.json)。后续默认导出正式 MP4 和轻量预览，按需另行制作专业母版。
+公开仓库目前包含源码与展示图；上表的影片和场景附件尚未公开发布。文件规格及哈希见 [资产清单](docs/release-assets.json)。附件发布后将提供于 [Releases](https://github.com/Warren-swr/golden-hour-companion/releases)。后续默认导出正式 MP4 和轻量预览，按需另行制作专业母版。
 
 ![播放器与封面展开](media/opening.jpg)
 
@@ -27,13 +27,15 @@ Blender / Cycles 森林住宅与电影短片制作项目：从夕阳中的花朵
 | [docs/](docs/reproduction.md) | 复现步骤、版本说明、素材来源和核验数据 |
 | [media/](media/) | 由项目实际渲染得到的展示图 |
 
-大体积影片和场景通过 Releases 下载。原生帧、历史母版、个人制作配置、日志、字体文件及参考截图保留在本地制作环境，不进入 Git 历史。
+大体积影片和场景独立于 Git 源码管理。原生帧、历史母版、个人制作配置、日志、字体文件及参考截图保留在本地制作环境，不进入 Git 历史。
 
 ## 快速开始
 
 使用 Blender 4.5 LTS、Python 3.11 或更高版本，以及含 ffmpeg / ffprobe 的 FFmpeg。已验证的场景制作版本为 Blender 4.5.12 LTS。
 
-1. 下载并解压场景 ZIP 到 work/scene/，保留 .blend 旁的 cache/ 目录。
+以下步骤适用于取得对应场景 ZIP 后使用；当前公开源码尚不包含场景包。
+
+1. 将场景 ZIP 解压到 work/scene/，保留 .blend 旁的 cache/ 目录。
 2. 用 Blender 打开 work/scene/Golden_Hour_Forest_Retreat.blend，编辑几何、材质、光照和相机。
 3. 运行短预览，确认环境可用。
 

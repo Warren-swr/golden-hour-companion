@@ -18,4 +18,4 @@ v10 正式 MP4 与 1080 预览均已完整解码，确认 59 秒、24 fps、1416
 
 新渲染入口已使用 Blender 4.5.12 LTS 在 CPU 上实际渲染第 1 帧（128 × 128、1 sample）。新编码入口已从四张测试帧导出正式 MP4 与预览，确认帧数、无音轨、没有 ProRes 输出，并验证拒绝覆盖和缺帧检查。该测试验证入口可用，不代表重新渲染完整成片。见 [工具试运行记录](validation/tools-smoke.json)。
 
-发布文件的字节数和 SHA-256 记录在 [release-assets.json](release-assets.json)，对应 Release 同时提供 `SHA256SUMS.txt`。
+待发布附件的字节数和 SHA-256 记录在 [release-assets.json](release-assets.json)。对应影片与场景目前尚未作为公开 Release 附件发布。
